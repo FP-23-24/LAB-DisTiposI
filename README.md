@@ -202,7 +202,7 @@ Paquetes: `fp.tipos.common`, `fp.tipos.common.test`
 - *nombre,* de tipo* String*,* consultable. Nombre de la persona.
 - *apellidos,* de tipo String*,* consultable. Apellidos de la persona.
 - *dni*, de tipo String, consultable. DNI de la persona.
-- *fechaNacimiente,* de tipo LocalDate, consultable. Fecha de nacimiento de la persona.
+- *fechaNacimiento,* de tipo LocalDate, consultable. Fecha de nacimiento de la persona.
 - *edad:* de tipo Integer. La edad se calcula a partir de la fecha de nacimiento.
 
 **Constructores:**
