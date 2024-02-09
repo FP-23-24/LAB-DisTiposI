@@ -3,7 +3,7 @@
 **Autores:** Toñi Reina, Mariano González.
 
 **Objetivos:**
-<p>- Conocer cuándo un tipo se implementa con una clase y cuándo se puede implementar con un record.</p><p>- Distinguir entre propiedades básicas y propiedades derivadas.</p><p>- Saber crear una clase, y</p><p>&emsp;- Definir los atributos</p><p>&emsp;- Implementar los constructores</p><p>&emsp;- Implementar los getters y setters y oitras operaciones</p><p>&emsp;- Implementar el método toString</p><p>- Crear un record, y</p><p>&emsp;- Definir los atributos</p><p>&emsp;- Implementar los constructores</p><p>&emsp;- Implementar los getters </p><p>&emsp;- Implementar el método toString</p>
+<p>- Conocer cuándo un tipo se implementa con una clase y cuándo se puede implementar con un record.</p><p>- Distinguir entre propiedades básicas y propiedades derivadas.</p><p>- Saber crear una clase, y</p><p>&emsp;- Definir los atributos</p><p>&emsp;- Implementar los constructores</p><p>&emsp;- Implementar los getters y setters y otras operaciones</p><p>&emsp;- Implementar el método toString</p><p>- Crear un record, y</p><p>&emsp;- Definir los atributos</p><p>&emsp;- Implementar los constructores</p><p>&emsp;- Implementar los getters </p><p>&emsp;- Implementar el método toString</p>
 
 
 
